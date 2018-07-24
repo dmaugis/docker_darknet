@@ -1,0 +1,12 @@
+--- /home/dmaugis/Dockers/darknet/Makefile	2018-07-24 00:46:36.220585000 +0200
++++ /home/dmaugis/Dockers/darknet/Makefile.new	2018-07-24 00:48:42.317182159 +0200
+@@ -1,6 +1,6 @@
+-GPU=0
+-CUDNN=0
+-OPENCV=0
++GPU=1
++CUDNN=1
++OPENCV=1
+ OPENMP=0
+ DEBUG=0
+ 
